@@ -1,18 +1,21 @@
 body {
-    font-family: calibri;
-    margin: 200px;
+    font-family: sans-serif;
+    margin: 20px; /* Keep your margin if you have one */
     background-color: #000000;
+    padding: 10px 400px; /* 10px top and bottom, 30px left and right */
 }
 
-h1, h2, p {
+h1, h2 {
     color: #ffffff;
+    padding: 10px 400px; /* Example padding for headings */
+}
+
+p {
+    padding: 10px 400px; /* Example padding for paragraphs */
 }
 
 a {
-    color: #fffff4;
-    text-decoration: none;
+    color: #8291b0
 }
 
-a:hover {
-    text-decoration: underline;
-}
+/* You can apply different padding to other elements as well */
