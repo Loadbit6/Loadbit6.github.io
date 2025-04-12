@@ -2,21 +2,21 @@ body {
     font-family: sans-serif;
     margin: 20px; /* Keep your margin if you have one */
     background-color: #000000;
-    padding: 10px 300px; /* 10px top and bottom, 30px left and right */
+    padding: 10px 200px; /* 10px top and bottom, 30px left and right */
 }
 
 h1, h2 {
     color: #ffffff;
-    padding: 10px 300px; /* Example padding for headings */
+    padding: 10px 200px; /* Example padding for headings */
 }
 
 p {
-    padding: 10px 300px; /* Example padding for paragraphs */
+    padding: 10px 200px; /* Example padding for paragraphs */
 }
 
 a {
-    color: #8291b0
-    padding: 10px 300px;
+    color: #a7bde8
+    padding: 10px 200px;
 }
 
 /* You can apply different padding to other elements as well */
