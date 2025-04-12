@@ -4,12 +4,12 @@ body {
     background-color: #000000;
 }
 
-h1, h2 {
+h1, h2, p {
     color: #ffffff;
 }
 
 a {
-    color: #333;
+    color: #d1d0cd;
     text-decoration: none;
 }
 
